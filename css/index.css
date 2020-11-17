@@ -1,0 +1,147 @@
+/*<!-- Jimeng Shi: my personal work of my resume, don't copy or use it for any business-->*/
+
+#resume{
+	width: 100%;
+	/*max-width: 768px;*/
+	margin:0 auto;
+	height: auto;
+	background-image: url(../images/bk_11.jpg);
+		display: flex;
+		height: 500px;
+}
+#gallery{
+	width: 100%;
+	max-width: 691px;
+	margin:auto;
+}
+/*#athena{
+	height: 128px;
+	width: 128px;
+	background-color: #fff;
+	background-image: url(../images/2019.png);
+	margin: 0 auto;
+}*/
+#athena_me{
+	/*max-width: 368px;*/
+	max-width: 388px;
+	width: 90%;
+	color: #fff;
+	line-height: 24px;
+	font-size: 14px;
+	/*//margin-top: 50px;*/
+	margin: 0 auto;
+	text-align: center;
+	text-shadow:1px 1px 1px #000;
+}
+#me_h1{
+	width: 100px;
+	margin-bottom: 0px;
+}
+#me_h1 h1{
+	height: 40px;
+	margin-top: 32px;
+    margin-bottom: 0px;
+}
+#workp{
+	width: 100%;
+	max-width: 768px;
+	margin:0 auto;
+	height: auto;
+}
+#work{
+	width: 90%;
+    max-width: 768px;
+    margin: 0 auto;
+    height: auto;
+}
+#re_title{
+	width: 100%;
+	margin:0 auto;
+	color: #aaa;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 46px;
+	padding-bottom: 36px;
+}
+#re_title p{
+/*	width: 120px;
+	background: #0070c0;
+	text-align: center;*/
+}
+#com{
+	max-width: 768px;
+	width: 100%;
+	color: #fff;
+	/*line-height: 30px;*/
+	font-size: 16px;
+	margin: 0 auto;
+	text-align: left;
+	height: auto;
+}
+#com_n{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 24px;
+}
+#com_l{
+	text-align: left;
+    width: 50%;
+    float: left;
+}
+#com_r{
+	text-align: right;
+    width: 50%;
+    float: left;
+}
+#com_c1, #com_c2, #com_c3, #com_c4{
+	text-align: left;
+    width: 100%;
+    float: left;
+    font-size: 15px;
+    color: #aaa;
+    line-height: 24px;
+
+}
+#com_e{
+	text-align: left;
+    width: 70%;
+    float: left;
+        font-size: 14px;
+    color:#aaa;
+    line-height: 22px;
+}
+#com_m{
+	text-align: right;
+    width: 30%;
+    float: left;
+        font-size: 14px;
+    color:#aaa;
+    line-height: 22px;
+}
+#resumeexp{
+	width: 100%;
+	/*max-width: 768px;*/
+	margin:0 auto;
+	height: auto;
+	background-image: url(../images/bk_2.jpg);
+	display: flex;
+	height: 300px;
+	margin-top: 46px;
+}
+#galleryexp{
+	width: 100%;
+	max-width: 691px;
+	margin:auto;
+}
+
+#athena_exp{
+	width: 49%;
+	color: #fff;
+	line-height: 24px;
+	font-size: 15px;
+	/*//margin-top: 50px;*/
+	margin: 0 auto;
+	text-align: center;
+	text-shadow:1px 1px 1px #000;
+	float: left;
+}

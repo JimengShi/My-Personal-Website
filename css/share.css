@@ -1,0 +1,77 @@
+@charset "utf-8";
+body{
+	background-color: black;
+	font-family: Times New Roman;
+	margin:0;
+/*	width: 768px;
+	text-align: center;*/
+}
+#title_fir{
+width: 100%;
+background: #000;
+border-bottom: 1px solid #555;
+position: fixed;
+opacity: 0.7;
+}
+
+#title_sec {
+	height: 44px;
+	width: 100%;
+	color: #FFF;
+	margin: auto;
+}
+#menu li{
+	float: left;
+	list-style: none;
+	width: 110px;
+}
+#title_secin {
+	text-align: center;
+	vertical-align: middle;
+	height: 100%;
+	width: 100%;
+	margin:0 auto;
+	font-size: 16px;
+	max-width: 768px;
+}
+/*#title_secfir {
+	width: 150px;
+	height: 150px;
+	margin:auto;
+}*/
+#ziti {
+	cursor: hand;
+	text-decoration: none;
+	color: #FFF;
+
+}
+#floor_menu {
+	width: 120%;
+	max-width: 768px;
+	margin:0 auto;
+	height: 100%;
+	padding-inline-start:0%;
+}
+#floor_menu li{
+	list-style: none;
+	float: left;
+	margin-top:14px;
+	width:25%;
+}
+#ziti a:hover {
+	text-decoration: underline;
+
+}
+
+#ziti a{
+	text-decoration: none;
+	color: #FFF;
+}
+
+#borderline{
+	border-bottom: 0.5px solid #333;
+	width: 90%;
+	margin: 0 auto;
+	padding-bottom: 18px;
+}
+/*<!-- YI LIU: my personal work of my resume, don't copy or use it for any business-->*/

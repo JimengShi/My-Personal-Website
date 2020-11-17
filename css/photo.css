@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+#gal_box{
+
+    margin: 0 auto;
+    width: 100%;
+    max-width: 768px;
+
+}
+
+#re_title{
+	width: 100%;
+	margin:0 auto;
+	color: #aaa;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 46px;
+	padding-bottom: 36px;
+}
+
+#gallery{
+	height: auto;
+	float: left;
+	width: 100%;
+	max-width: 768px;
+	margin:auto;
+	margin-top: 10px;
+	border: 1px solid #555;
+	background-color: #3d3d3d;
+}
+
+#gallery ul{
+	/*float: left;*/
+	margin-top: 20px;
+	padding-left: 0px;
+	height: 140px;
+}
+
+#gallery_year{
+	float: left;
+	width:96px;
+	text-align: center;
+	padding-top: 60px;
+	color: #aaa;
+	font-size: 14px;
+}
+
+#a_img {
+	float: right;
+	text-decoration: none;
+}
+
+#light {
+	float: left;
+	width: 48px;
+	text-align: center;
+	height: 150px;
+	list-style: none;
+}
+
+#light a {
+	text-decoration: none;
+	height:138px;
+	display:inline-block;
+	border:#53331d solid 1px;
+}
+
