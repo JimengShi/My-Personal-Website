@@ -1,2 +1,3 @@
-# My-Personal-Website
-You can quickly learn about me by my personal website which includes resume, projects, publications and hobbies.
+# resume
+@copyright@ Jimeng Shi: my personal work of my resume, just for communication and study,
+don't copy or use it for any business
