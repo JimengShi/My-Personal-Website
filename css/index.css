@@ -49,7 +49,7 @@
 	height: auto;
 }
 #work{
-	width: 90%;
+	width: 94%;
     max-width: 768px;
     margin: 0 auto;
     height: auto;
@@ -58,7 +58,7 @@
 	width: 100%;
 	margin:0 auto;
 	color: #aaa;
-	font-size: 18px;
+	font-size: 20px;
 	text-align: center;
 	padding-top: 46px;
 	padding-bottom: 36px;
@@ -73,7 +73,7 @@
 	width: 100%;
 	color: #fff;
 	/*line-height: 30px;*/
-	font-size: 16px;
+	font-size: 18px;
 	margin: 0 auto;
 	text-align: left;
 	height: auto;
@@ -83,21 +83,21 @@
 	overflow: hidden;
 	margin-bottom: 24px;
 }
-#com_l{
+#com_l1{
 	text-align: left;
     width: 50%;
     float: left;
 }
-#com_r{
+#com_r1{
 	text-align: right;
     width: 50%;
     float: left;
 }
-#com_c1, #com_c2, #com_c3, #com_c4{
+#com_c1, #com_c2, #com_c3, #com_c4, #com_c5{
 	text-align: left;
     width: 100%;
     float: left;
-    font-size: 15px;
+    font-size: 17px;
     color: #aaa;
     line-height: 24px;
 
@@ -106,7 +106,7 @@
 	text-align: left;
     width: 70%;
     float: left;
-        font-size: 14px;
+    font-size: 18px;
     color:#aaa;
     line-height: 22px;
 }
@@ -114,7 +114,23 @@
 	text-align: right;
     width: 30%;
     float: left;
-        font-size: 14px;
+    font-size: 18px;
+    color:#aaa;
+    line-height: 22px;
+}
+#com_l{
+	text-align: left;
+    width: 70%;
+    float: left;
+    font-size: 18px;
+    color:#aaa;
+    line-height: 22px;
+}
+#com_r{
+	text-align: right;
+    width: 30%;
+    float: left;
+    font-size: 18px;
     color:#aaa;
     line-height: 22px;
 }
@@ -138,7 +154,7 @@
 	width: 49%;
 	color: #fff;
 	line-height: 24px;
-	font-size: 15px;
+	font-size: 18px;
 	/*//margin-top: 50px;*/
 	margin: 0 auto;
 	text-align: center;
