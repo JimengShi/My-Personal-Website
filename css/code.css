@@ -7,17 +7,17 @@ body{
 }
 
 #proj{
-	width: 150%;
+	width: 100%;
 	max-width: 768px;
 	margin:0 auto;
 	height: auto;
 }
 
 #projd{
-	width: 150%;
-	max-width: 560px;
+	width: 90%;
+	max-width: 600px;
 	/*min-width: 560px;*/
-	margin: 0 auto;
+	margin:0 auto;
 	height: auto;
 	overflow: hidden;
 }
@@ -32,10 +32,10 @@ body{
 }
 #box{
 	width: 100%;
-	/*max-width: 500px;*/
+	/*max-width: 450px;*/
 	height: auto;
 	color: #333;
-	font-size: 12px;
+	font-size: 15px;
 	overflow: hidden;
 	background: white;
 	margin-bottom: 14px;
@@ -62,7 +62,8 @@ body{
 	margin: auto;
 	/*padding:10px;*/
 }
-#bdes1, #bdes2, #bdes3, #bdes4, #bdes5{
+#bdes1{
 	margin-left: 12px;
 	margin-right: 12px;
+	font-size: 15px;
 }
