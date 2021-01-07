@@ -10,21 +10,28 @@
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/resume.png" alt="Framework" >
 </div>
 
+----
 
 - **PROJECT**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/project.png" alt="Framework" >
 </div>
 
+----
+
 - **PUBLICATION**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/publication.png" alt="Framework" >
 </div>
 
+----
+
 - **BLOG**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/blog.png" alt="Framework" >
 </div>
+
+----
 
 - **HOBBY**
 <div align="center">
