@@ -5,27 +5,28 @@
 
 ## Show effect
 
-- RESUME
+- **RESUME**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/resume.png" alt="Framework" >
 </div>
 
-- PROJECT
+
+- **PROJECT**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/project.png" alt="Framework" >
 </div>
 
-- PUBLICATION
+- **PUBLICATION**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/publication.png" alt="Framework" >
 </div>
 
-- BLOG
+- **BLOG**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/blog.png" alt="Framework" >
 </div>
 
-- HOBBY
+- **HOBBY**
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/hobby.png" alt="Framework" >
 </div>
