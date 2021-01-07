@@ -14,7 +14,7 @@
 
 - **PROJECT**
 <div align="center">
-<img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/project.png" alt="Framework" >
+<img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/project.png" alt="project" >
 </div>
 
 ----
@@ -38,5 +38,3 @@
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/hobby.png" alt="Framework" >
 </div>
 
-
-gsh
