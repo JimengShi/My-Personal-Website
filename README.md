@@ -20,6 +20,11 @@
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/publication.png" alt="Framework" >
 </div>
 
+- BLOG
+<div align="center">
+<img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/blog.png" alt="Framework" >
+</div>
+
 - HOBBY
 <div align="center">
 <img src="https://github.com/JimengShi/My-Personal-Website/blob/main/screenshot/hobby.png" alt="Framework" >
