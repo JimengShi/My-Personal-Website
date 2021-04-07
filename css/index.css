@@ -161,3 +161,22 @@
 	text-shadow:1px 1px 1px #000;
 	float: left;
 }
+
+.mainDiv {
+    float: left;
+    margin-left: 31%;
+    width: 80%;
+    margin-top: 2%;
+    height: 200px;
+    /*background-color: #FFEBCD;*/
+
+}
+
+.viceDiv_1,.viceDiv_2,.viceDiv_3,.viceDiv_4 {
+    float: left;
+    /*background-color: #7FFFD4;*/
+    margin-top: 1% ;
+    margin-left: 2.5%;
+    width: 100%;
+    height: 150px;  
+}
